@@ -7,7 +7,7 @@ public class Pets {
         this.name = name;
         this.age = age;
         this.breed = breed;
-        }
+    }
 
     public String getName() {
         return name;
